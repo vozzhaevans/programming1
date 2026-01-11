@@ -7,7 +7,7 @@ public class task_2023 {
         Scanner scanner = new Scanner(System.in);
 
         int n = scanner.nextInt();
-        scanner.nextLine(); // Потребляем перевод строки после числа
+        scanner.nextLine();
 
         int currentPosition = 1; // Начинаем у первого шкафа (слева)
         int totalSteps = 0;
