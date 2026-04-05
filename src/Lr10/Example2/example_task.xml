@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<task_list>
+                    
+    
+    
+    
+    <task>
+                                        
+        
+        
+        
+        <title>Выполнить проект по опд</title>
+                                        
+        
+        
+        
+        <implementer>Надежда Возжаева</implementer>
+                                        
+        
+        
+        
+        <deadlines>2026.06.01</deadlines>
+                                    
+    
+    
+    
+    </task>
+                    
+    
+    
+    
+    <task>
+                                        
+        
+        
+        
+        <title>Написать культовый роман</title>
+                                        
+        
+        
+        
+        <implementer>Михаил Булгаков</implementer>
+                                        
+        
+        
+        
+        <deadlines>1940</deadlines>
+                                    
+    
+    
+    
+    </task>
+                
+    
+    
+    
+        
+    
+    
+    <task>
+                        
+        
+        <title>Создать работоспособную программу</title>
+                        
+        
+        <implementer>Олег Олегович</implementer>
+                        
+        
+        <deadlines>2026.09.16</deadlines>
+                    
+    
+    </task>
+        
+    
+    <task>
+                
+        <title>Сделать конспект</title>
+                
+        <implementer>Иван Иванович</implementer>
+                
+        <deadlines>2004.02.30</deadlines>
+            
+    </task>
+    
+</task_list>
